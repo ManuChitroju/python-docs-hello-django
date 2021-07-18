@@ -26,7 +26,7 @@ SECRET_KEY = '12345'
 DEBUG = True
 
 #ALLOWED_HOSTS = [os.environ['WEBSITE_HOSTNAME']] if 'WEBSITE_HOSTNAME' in os.environ else []
-ALLOWED_HOSTS = ["mbgbs.com"]
+ALLOWED_HOSTS = ["mbgbs.com","manu.azurewebsites.net"]
 
 
 # Application definition
